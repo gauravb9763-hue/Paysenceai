@@ -297,4 +297,4 @@ This repo includes a **placeholder hook** `get_log_summary_ai()` in [models/rout
 ---
 
 ## Author
-Gaurav B — AI/ML Engineer (Payment Optimization / Routing)
+Gaurav Bhurale — AI/ML Engineer (PaySense AI Engine / Real-time Payment Routing)
