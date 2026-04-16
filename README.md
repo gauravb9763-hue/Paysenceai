@@ -1,6 +1,6 @@
-# PaySense AI Engine — Payment Routing Optimizer
+# PaySense AI Engine
 
-> **Intelligent payment routing optimization system powered by ML (Hybrid Scoring) + GenAI-ready hooks**
+> **Intelligent PaySense AI Engine system powered by ML (Hybrid Scoring) + GenAI-ready hooks**
 
 This repository is a **recruiter-friendly, runnable reference implementation** of the PaySense-style routing engine concept.
 It shows the end-to-end *flow* (features → scoring → rule filters → API response) in a way that’s easy to read.
@@ -297,4 +297,4 @@ This repo includes a **placeholder hook** `get_log_summary_ai()` in [models/rout
 ---
 
 ## Author
-Gaurav Bhurale — AI/ML Engineer (PaySense AI Engine / Real-time Payment Routing)
+Gaurav — AI/ML Engineer (PaySense AI Engine)
