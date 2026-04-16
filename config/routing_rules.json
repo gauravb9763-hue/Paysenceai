@@ -1,0 +1,10 @@
+{
+  "downtime_threshold_pct": 15,
+  "latency_threshold_ms": 300,
+  "payment_type_priority": {
+    "UPI": ["Stripe", "Razorpay", "Paytm"],
+    "CARD": ["Razorpay", "Stripe", "Paytm"],
+    "NET_BANKING": ["Paytm", "Razorpay", "Stripe"]
+  },
+  "disabled_gateways": []
+}
